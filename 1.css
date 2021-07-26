@@ -1,0 +1,59 @@
+body{
+   background-color: rgb(185, 214, 157);
+}
+#header
+{
+    position: relative;
+    height:60px;
+    background-color: #668284;
+    border-radius: 5px;
+    }
+
+.name{
+    color: white; 
+    float: left;
+    }
+
+.email{
+    color: white;
+    float: right;
+    display: flex; justify-content: right; align-items: right;
+}
+
+.mno{
+    color: white;
+    display: flex; justify-content: center; align-items: center;
+}
+
+#div2{
+    background: rosybrown;
+    border-radius: 5px
+}
+
+#pd{
+    color: khaki;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#heading
+{
+    font-weight:bold;
+}
+
+table
+{
+    border: 1px dashed black;
+}
+td
+{
+    padding: 2px;
+    border: 1px solid #E88741;
+}
+
+#bold{
+    font-weight: bold;
+}
+
+#font{
+    font-size: 20px;
+}
